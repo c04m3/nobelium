@@ -1,9 +1,9 @@
 {
   "NAV": {
-    "INDEX": "部落格",
-    "RSS": "訂閱",
-    "SEARCH": "搜尋",
-    "ABOUT": "關於"
+    "INDEX": "Blog",
+    "RSS": "RSS",
+    "SEARCH": "Search",
+    "ABOUT": "About"
   },
   "PAGINATION": {
     "PREV": "上一頁",
@@ -15,7 +15,7 @@
   },
   "PAGE": {
     "ERROR_404": {
-      "MESSAGE": "這裡什麼都沒有"
+      "MESSAGE": "這裡什麼都沒有，跟你的錢包一樣"
     }
   }
 }
