@@ -4,8 +4,8 @@
     "RSS": "RSS",
     "SEARCH": "Search",
     "ABOUT": "About",
-    "NAVIGATION": "NAV",
-    "TEMPLATES": "Tmpl"
+    "NAVIGATION": "Nav",
+    "TEMPLATES": "Tmpls"
   },
   "PAGINATION": {
     "PREV": "上一頁",
