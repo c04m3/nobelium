@@ -1,11 +1,11 @@
 {
   "NAV": {
-    "INDEX": "home",
+    "INDEX": "Home",
     "RSS": "RSS",
-    "SEARCH": "search",
-    "ABOUT": "about",
-    "NAVIGATION": "nav",
-    "TEMPLATES": "temp"
+    "SEARCH": "Search",
+    "ABOUT": "About",
+    "NAVIGATION": "Nav",
+    "TEMPLATES": "Temp"
   },
   "PAGINATION": {
     "PREV": "上一頁",
