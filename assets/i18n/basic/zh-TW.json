@@ -3,7 +3,9 @@
     "INDEX": "Blog",
     "RSS": "RSS",
     "SEARCH": "Search",
-    "ABOUT": "About"
+    "ABOUT": "About",
+    "NAVIGATION": "Nav",
+    "TEMPLATES": "Tmpl"
   },
   "PAGINATION": {
     "PREV": "上一頁",

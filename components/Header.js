@@ -11,8 +11,11 @@ const NavBar = () => {
   const links = [
     { id: 0, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
     { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
-    { id: 2, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
-    { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true }
+    // { id: 2, name: locale.NAV.RSS, to: '/feed', show: true, external: true },
+    // 新增連結
+    { id: 2, name: locale.NAV.TEMPLATES, to: '/templates', show: true },
+    { id: 3, name: locale.NAV.NAVIGATION, to: 'https://nav.2033.town', show: true, external: true },
+    { id: 4, name: locale.NAV.SEARCH, to: '/search', show: true }
   ]
   return (
     <div className="flex-shrink-0">
@@ -135,7 +138,7 @@ const HeaderName = forwardRef(function HeaderName ({ siteTitle, siteDescription,
       {postTitle && <span className="post-title row-start-1 col-start-1">{postTitle}</span>}
       <span className="row-start-1 col-start-1">
         <span className="site-title">{siteTitle}</span>
-        <span className="site-description font-normal">, {siteDescription}</span>
+        <span className="site-description font-normal"> {siteDescription}</span>
       </span>
     </p>
   )
