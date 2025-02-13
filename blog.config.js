@@ -1,7 +1,7 @@
 const BLOG = {
   title: '2033 TOWN',
   author: 'SAM',
-  email: 'sam@klog.tw',
+  email: 'sameowowo@gmail.com',
   link: 'https://2033.town',
   description: '我寫故我在，沒寫就是躺平了',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
