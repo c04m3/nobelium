@@ -24,6 +24,6 @@ export default function FormattedDate ({ date }) {
     }
 
   }, [isLocaleLoaded, lang])
-
-  return <span>{dayjs(date).format('ll')}</span>
+  // 將日期從原先的 ll 修改成現在的格式
+  return <span>{dayjs(date).format('YYYY [年] MM [月] DD [日]')}</span>
 }
