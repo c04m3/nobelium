@@ -1,11 +1,11 @@
 {
   "NAV": {
-    "INDEX": "Home",
+    "INDEX": "首頁",
     "RSS": "RSS",
-    "SEARCH": "Search",
-    "ABOUT": "About",
-    "NAVIGATION": "Nav",
-    "TEMPLATES": "Temp"
+    "SEARCH": "搜尋",
+    "ABOUT": "關於",
+    "NAVIGATION": "導航",
+    "TEMPLATES": "模板"
   },
   "PAGINATION": {
     "PREV": "上一頁",
