@@ -3,7 +3,7 @@ const BLOG = {
   author: 'SAM',
   email: 'sameowowo@gmail.com',
   link: 'https://2033.town',
-  description: '我寫故我在，沒寫就是躺平了',
+  description: '日子慢慢過，廢文慢慢寫',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Taipei', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
